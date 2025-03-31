@@ -60,9 +60,9 @@ O projeto está dividido em dois microserviços principais:
 1. Anexar o banco de dados em:
    - C:\KorpTeste\database\KORP.FDB
 
-3. Compilar e executar os serviços:
-   - InventoryService.dpr (porta 8081)
-   - BillingService.dpr (porta 8082)
+2. Compilar e executar os serviços:
+   - EstoqueService.dpr (porta 8081)
+   - FaturamentoService.dpr (porta 8082)
 
 
 ## Tratamento de Erros
@@ -75,3 +75,5 @@ O sistema implementa tratamento robusto de erros, incluindo:
 4. Validações de regras de negócio
 
 Em todos os casos, o usuário receberá feedback apropriado sobre o erro ocorrido.
+
+[Assista ao vídeo no YouTube]https://www.youtube.com/watch?v=MOxkf2ExaSI
